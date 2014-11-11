@@ -1,0 +1,16 @@
+Mother	motherOf	Daughter	
+Mother	parentOf	Daughter
+Father	fatherOf	Daughter
+Father	parentOf	Daughter
+Daughter	daughterOf	Mother
+Daughter	daughterOf	Father
+Daughter	childOf	Mother
+Daughter	childOf	Father
+Mother	wifeOf	Father
+Mother	marriedTo	Father
+Mother	spouceOf	Father
+Father	husbandOf	Mother
+Father	marriedTo	Mother
+Father	spouceOf	Mother
+Father	authorOf	Book
+

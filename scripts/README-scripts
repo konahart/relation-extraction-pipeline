@@ -1,0 +1,14 @@
+Please note that these scripts are made for convenience, where a command will
+probably be executed multiple times with the same set of arguments. As such,
+they are very sensitive to being moved. Be certain to check and modify the
+scripts before executing if the data they rely on has been moved. 
+
+Included scripts:
+entityAliasFileFromFreebase.sh - Generate a tab-separated file of entities and
+aliases from a Freebase dump. Entities and aliases may appear more than once in
+ the file, but each line should only contain one pair. 
+See data/examples/exampleAliases.txt.
+
+relationFilesFromFreebase.sh - Generate a tab-separated file of relation 
+triplets (entity1, relation, entity2) from a Freebase dump and a list of 
+relations. Each line should contain only one relation. 

@@ -1,0 +1,43 @@
+<DOC id="Example 1" type="story" >
+
+<HEADLINE>
+
+Example headline
+
+</HEADLINE>
+
+<DATELINE>
+
+10 November, 2014
+
+</DATELINE>
+
+<TEXT>
+
+Ted took Annie out to buy ice cream. Annie's favorite flavor is chocolate. Ted prefers blueberry, but blueberry is not a very common flavor. 
+
+</TEXT>
+
+</DOC>
+
+<DOC id="Example 2" type="story" >
+
+<HEADLINE>
+
+Example headline, again
+
+</HEADLINE>
+
+<DATELINE>
+
+10 November, 2014
+
+</DATELINE>
+
+<TEXT>
+
+Ramirez published Anna in 1987. It was a smash hit.
+
+</TEXT>
+
+</DOC>

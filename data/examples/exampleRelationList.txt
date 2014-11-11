@@ -1,0 +1,11 @@
+motherOf	
+fatherOf
+parentOf
+daughterOf
+childOf
+wifeOf
+spouceOf
+husbandOf
+marriedTo
+authorOf
+
